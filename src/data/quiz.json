@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "question": "en cok kaz yapar",
+            "choices": ["yol","araba","şofor","adem"],
+            "answer": "şofor"
+        },
+        {
+            "question": "Gündüzleri çekilen ve çeken araç arasındaki bağlantının uzunluğu kaç metreyi geçerse, üzerine kırmızı bez veya kırmızı yansıtıcı asılmalıdır?",
+            "choices": ["1","1.5","2","2.5"],
+            "answer": "2.5"
+        },
+        {
+            "question": "Kontrolsüz kavşaklarda aşağıdakilerden hangisinin yapılması doğrudur?",
+            "choices": ["Şerit değiştirilmesi","Öndeki aracın geçilmesi","Geçiş hakkı kuralına uyulması","Aracın hızının artırılması"],
+            "answer": "Geçiş hakkı kuralına uyulması"
+        },
+        {
+            "question": "Arkadan çarpma şeklindeki trafik kazalarının en önemli sebebi aşağıdakilerden hangisidir?",
+            "choices": ["Öndeki aracın durması","Öndeki aracın yavaşlaması","Görüş mesafesinin kötü olması","Takip mesafesi kurallarına uyulmaması"],
+            "answer": "Takip mesafesi kurallarına uyulmaması"
+        },
+        {
+            "question": "I- Sürücü belgesi-II- Araç tescil belgesi-III- Motorlu araç trafik belgesi-IV- Zorunlu mali sorumluluk sigortası**Yukarıdakilerden hangileri, trafik denetiminde istenmesi hâlinde sürücünün göstermek zorunda olduğu belgelerdendir?",
+            "choices": ["III ve IV","I, II, III ve IV","I ve II","Yalnız I"],
+            "answer": "I, II, III ve IV"
+        },
+        {
+            "question": "Kaza yapan aracın ön ve arkasına, diğer araç sürücülerini yavaşlatmak ve olası bir kaza tehlikesini önlemek için aşağıdakilerden hangisi yerleştirilmelidir?",
+            "choices": ["Yangın tüpü","Üçgen reflektör","Beyaz renkte taş","Teneke veya bidon gibi malzemeler"],
+            "answer": "Üçgen reflektör"
+        },
+        {
+            "question": "2918 sayılı Karayolları Trafik Kanunu'nda belirtilen motorlu araçların sürülmesine yetki veren belge, aşağıdakilerden hangisidir?",
+            "choices": ["Sürücü belgesi","Araç imalat belgesi","Kaza tespit tutanağı","Motorlu taşıt sürücü sertifikası"],
+            "answer": "Sürücü belgesi"
+        },
+        {
+            "question": "Geceleri araç kullanırken aydınlatmanın yeterli olduğu yerlerde araç ışıklarından hangisi kullanılmalıdır?",
+            "choices": ["Sis ışıkları","Acil uyarı ışıkları","Uzağı gösteren ışıklar","Yakını gösteren ışıklar"],
+            "answer": "Yakını gösteren ışıklar"
+        },
+        {
+            "question": "Aşağıdakilerden hangisi olası bir trafik kazasında araç içindeki ölüm ve yaralanmaların en aza indirilmesi amacıyla alınan önlemlerdendir?",
+            "choices": ["Seyir hâlindeyken emniyet kemerinin kullanılması","Araca daha geniş ebatta lastikler taktırılması","Motor gücü yüksek araç kullanılması","Trafik cezalarının fazlalaştırılması"],
+            "answer": "Seyir hâlindeyken emniyet kemerinin kullanılması"
+        },
+        {
+            "question": "Geceleri araçların karşılaşmaları esnasında hangi ışıkların yakılması zorunludur?",
+            "choices": ["Dönüş ışıklarının","Sis veya park ışıklarının","Uzağı gösteren ışıkların","Yakını gösteren ışıkların"],
+            "answer": "Yakını gösteren ışıkların"
+        }
+    ]
+}
